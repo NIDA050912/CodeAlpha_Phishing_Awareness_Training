@@ -14,3 +14,5 @@ This Presentation on Phishing Covers
 4 Ways to Detect Phishing Attacks
 
 5 Prevention of Phishing Attacks
+
+[Phishing (N).pdf](https://github.com/user-attachments/files/18505995/Phishing.N.pdf)
